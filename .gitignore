@@ -50,3 +50,6 @@ amplify-build-config.json
 amplify-gradle-config.json
 amplifytools.xcconfig
 .secret-*
+
+#dhh - not needed as not a team dev project
+amplify/team-provider-info.json
